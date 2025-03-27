@@ -1,0 +1,18 @@
+# 빌드 관련 폴더 제외
+build/
+crop/
+croped/
+upscale/
+upscaled/
+icon/
+PDF/
+preview/
+
+# 가상 환경 제외
+venv/
+
+# 파이썬 파일 제외
+test.py
+test*.py
+Scan2PDF.py
+Scan2PDF.spec
