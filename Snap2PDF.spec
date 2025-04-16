@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Snap2PDF.py'],
+    ['final.py'],
     pathex=[],
     binaries=[],
     datas=[],
