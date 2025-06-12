@@ -47,7 +47,7 @@ PyQt 기반의 직관적인 인터페이스와 OpenCV 업스케일링을 통해 
 
 | 🌞 Light Mode | 🌙 Dark Mode |
 |---------------|--------------|
-| ![Light](Snap2PDF-2.png) | ![Dark](Snap2PDF-1.png) |
+| ![Snap2PDF-2](https://github.com/user-attachments/assets/3c070103-ed8a-4a44-96c4-f6b3849d1dd8) | ![Snap2PDF-1](https://github.com/user-attachments/assets/f9d28a80-da52-49ee-9317-f706b4352e8c) |
 
 ----------
 
