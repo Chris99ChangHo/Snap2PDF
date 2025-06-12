@@ -45,20 +45,9 @@ PyQt 기반의 직관적인 인터페이스와 OpenCV 업스케일링을 통해 
 
 ## 🖥️ 실행화면 (라이트 & 다크 모드 비교)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center;">🌞 Light Mode</th>
-      <th style="text-align:center;">🌙 Dark Mode</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="Snap2PDF-2.png" width="400"/></td>
-      <td align="center"><img src="Snap2PDF-1.png" width="400"/></td>
-    </tr>
-  </tbody>
-</table>
+| 🌞 Light Mode | 🌙 Dark Mode |
+|---------------|--------------|
+| ![Light](Snap2PDF-2.png) | ![Dark](Snap2PDF-1.png) |
 
 ----------
 
